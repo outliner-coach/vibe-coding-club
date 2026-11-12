@@ -56,14 +56,6 @@
     "checkedAt": "2026-11-08T23:59:27.032704+00:00"
   },
   {
-    "itemId": "legacy-github-flight-price-watch",
-    "metricKey": "github_stars",
-    "value": 10,
-    "unit": "개",
-    "sourceUrl": "https://api.github.com/repos/AgentBridge-Lab/flight-price-watch",
-    "checkedAt": "2026-09-28T00:02:59.764897+00:00"
-  },
-  {
     "itemId": "legacy-github-workforge-mcp",
     "metricKey": "github_stars",
     "value": 18,
@@ -184,14 +176,6 @@
     "checkedAt": "2026-11-08T23:59:27.071170+00:00"
   },
   {
-    "itemId": "legacy-github-ultracode",
-    "metricKey": "github_stars",
-    "value": 0,
-    "unit": "개",
-    "sourceUrl": "https://api.github.com/repos/taehyunan-99/ultracode",
-    "checkedAt": "2026-09-28T00:03:00.595214+00:00"
-  },
-  {
     "itemId": "legacy-github-tapflow",
     "metricKey": "github_forks",
     "value": 183,
@@ -246,14 +230,6 @@
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/taehyunan-99/agentic-project-init",
     "checkedAt": "2026-11-08T23:59:25.785513+00:00"
-  },
-  {
-    "itemId": "legacy-github-flight-price-watch",
-    "metricKey": "github_forks",
-    "value": 2,
-    "unit": "개",
-    "sourceUrl": "https://api.github.com/repos/AgentBridge-Lab/flight-price-watch",
-    "checkedAt": "2026-09-28T00:02:59.764897+00:00"
   },
   {
     "itemId": "legacy-github-workforge-mcp",
@@ -360,14 +336,6 @@
     "checkedAt": "2026-11-08T23:59:27.071170+00:00"
   },
   {
-    "itemId": "legacy-github-ultracode",
-    "metricKey": "github_forks",
-    "value": 0,
-    "unit": "개",
-    "sourceUrl": "https://api.github.com/repos/taehyunan-99/ultracode",
-    "checkedAt": "2026-09-28T00:03:00.595214+00:00"
-  },
-  {
     "itemId": "legacy-github-voiceclonedub",
     "metricKey": "github_forks",
     "value": 0,
@@ -430,14 +398,6 @@
     "unit": "회 이상",
     "sourceUrl": "https://play.google.com/store/apps/details?id=com.ssacksru.imjang&hl=en&gl=US",
     "checkedAt": "2026-11-08T23:59:28.667831+00:00"
-  },
-  {
-    "itemId": "legacy-service-lawtrack",
-    "metricKey": "app_downloads",
-    "value": 10,
-    "unit": "회 이상",
-    "sourceUrl": "https://play.google.com/store/apps/details?id=kr.lawtrack.app&hl=en&gl=US",
-    "checkedAt": "2026-11-08T23:59:28.035332+00:00"
   },
   {
     "itemId": "legacy-service-whisper-live",
