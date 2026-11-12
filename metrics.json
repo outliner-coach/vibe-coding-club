@@ -2,18 +2,18 @@
   {
     "itemId": "legacy-github-tapflow",
     "metricKey": "github_stars",
-    "value": 1783,
+    "value": 1969,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/jo-duchan/tapflow",
-    "checkedAt": "2026-11-08T23:59:27.452049+00:00"
+    "checkedAt": "2026-11-12T11:52:08.875019+00:00"
   },
   {
     "itemId": "legacy-github-dryforge",
     "metricKey": "github_stars",
-    "value": 442,
+    "value": 448,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/prekuter/dryforge",
-    "checkedAt": "2026-11-08T23:59:26.252275+00:00"
+    "checkedAt": "2026-11-12T11:52:07.769357+00:00"
   },
   {
     "itemId": "legacy-github-skills-repo",
@@ -21,7 +21,7 @@
     "value": 105,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/jha0313/skills_repo",
-    "checkedAt": "2026-11-08T23:59:27.070767+00:00"
+    "checkedAt": "2026-11-12T11:52:08.520065+00:00"
   },
   {
     "itemId": "legacy-github-codex-live-demo",
@@ -29,7 +29,7 @@
     "value": 21,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/jha0313/codex-live-demo",
-    "checkedAt": "2026-11-08T23:59:26.213441+00:00"
+    "checkedAt": "2026-11-12T11:52:07.499166+00:00"
   },
   {
     "itemId": "4a7dd084-833a-4cf3-b5eb-a4cc1ff61eea",
@@ -37,7 +37,7 @@
     "value": 15,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/taewooyo/volcano",
-    "checkedAt": "2026-11-08T23:59:29.260223+00:00"
+    "checkedAt": "2026-11-12T11:52:11.309751+00:00"
   },
   {
     "itemId": "legacy-github-agentic-project-init",
@@ -45,7 +45,7 @@
     "value": 14,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/taehyunan-99/agentic-project-init",
-    "checkedAt": "2026-11-08T23:59:25.785513+00:00"
+    "checkedAt": "2026-11-12T11:52:06.553067+00:00"
   },
   {
     "itemId": "legacy-github-second-brain-engine",
@@ -53,7 +53,7 @@
     "value": 12,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/alsgur9865-sketch/second-brain-engine",
-    "checkedAt": "2026-11-08T23:59:27.032704+00:00"
+    "checkedAt": "2026-11-12T11:52:08.325124+00:00"
   },
   {
     "itemId": "legacy-github-workforge-mcp",
@@ -61,7 +61,7 @@
     "value": 18,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/NotNull92/workforge-mcp",
-    "checkedAt": "2026-11-08T23:59:27.828963+00:00"
+    "checkedAt": "2026-11-12T11:52:09.322938+00:00"
   },
   {
     "itemId": "legacy-github-deep-suite",
@@ -69,7 +69,7 @@
     "value": 9,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/Sungmin-Cho/deep-suite",
-    "checkedAt": "2026-11-08T23:59:26.219032+00:00"
+    "checkedAt": "2026-11-12T11:52:07.528411+00:00"
   },
   {
     "itemId": "legacy-github-presentation-slide",
@@ -77,7 +77,7 @@
     "value": 9,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/jha0313/presentation-slide",
-    "checkedAt": "2026-11-08T23:59:26.778729+00:00"
+    "checkedAt": "2026-11-12T11:52:08.252840+00:00"
   },
   {
     "itemId": "legacy-github-aquagarden",
@@ -85,7 +85,7 @@
     "value": 6,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/outliner-coach/aquagarden-for-builder",
-    "checkedAt": "2026-11-08T23:59:25.785967+00:00"
+    "checkedAt": "2026-11-12T11:52:07.002076+00:00"
   },
   {
     "itemId": "legacy-github-claude-rx",
@@ -93,7 +93,7 @@
     "value": 7,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/alsgur9865-sketch/claude-rx",
-    "checkedAt": "2026-11-08T23:59:25.786508+00:00"
+    "checkedAt": "2026-11-12T11:52:07.239497+00:00"
   },
   {
     "itemId": "legacy-github-veriloop",
@@ -101,7 +101,7 @@
     "value": 7,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/dev-geon/veriloop",
-    "checkedAt": "2026-11-08T23:59:27.497613+00:00"
+    "checkedAt": "2026-11-12T11:52:09.033815+00:00"
   },
   {
     "itemId": "legacy-github-awa",
@@ -109,7 +109,7 @@
     "value": 5,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/taehyunan-99/awa",
-    "checkedAt": "2026-11-08T23:59:25.786199+00:00"
+    "checkedAt": "2026-11-12T11:52:07.056132+00:00"
   },
   {
     "itemId": "legacy-github-voiceclonedub",
@@ -117,7 +117,7 @@
     "value": 5,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/dalsoop/voiceclonedub",
-    "checkedAt": "2026-11-08T23:59:27.554721+00:00"
+    "checkedAt": "2026-11-12T11:52:09.142703+00:00"
   },
   {
     "itemId": "legacy-github-design-guideline",
@@ -125,7 +125,7 @@
     "value": 3,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/taehyunan-99/design_guideline_repo",
-    "checkedAt": "2026-11-08T23:59:26.235379+00:00"
+    "checkedAt": "2026-11-12T11:52:07.725133+00:00"
   },
   {
     "itemId": "legacy-github-letter-coach",
@@ -133,7 +133,7 @@
     "value": 3,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/kjhchs2/letter-coach",
-    "checkedAt": "2026-11-08T23:59:26.631242+00:00"
+    "checkedAt": "2026-11-12T11:52:08.016211+00:00"
   },
   {
     "itemId": "legacy-github-disease-atlas",
@@ -141,7 +141,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/Haneul-two/disease-atlas",
-    "checkedAt": "2026-11-08T23:59:28.840606+00:00"
+    "checkedAt": "2026-11-12T11:52:11.094660+00:00"
   },
   {
     "itemId": "legacy-github-math-assist",
@@ -149,7 +149,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/outliner-coach/math_assist",
-    "checkedAt": "2026-11-08T23:59:26.705120+00:00"
+    "checkedAt": "2026-11-12T11:52:08.025789+00:00"
   },
   {
     "itemId": "legacy-github-sns-app",
@@ -157,7 +157,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/riosee2415/un-developer-harness-lecture-sns-app",
-    "checkedAt": "2026-11-08T23:59:27.168257+00:00"
+    "checkedAt": "2026-11-12T11:52:08.751468+00:00"
   },
   {
     "itemId": "legacy-service-disease-atlas",
@@ -165,7 +165,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/Haneul-two/disease-atlas",
-    "checkedAt": "2026-11-08T23:59:28.996241+00:00"
+    "checkedAt": "2026-11-12T11:52:11.095832+00:00"
   },
   {
     "itemId": "legacy-github-smt-coach",
@@ -173,15 +173,15 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/swingwave-ops/smt-coach",
-    "checkedAt": "2026-11-08T23:59:27.071170+00:00"
+    "checkedAt": "2026-11-12T11:52:08.624352+00:00"
   },
   {
     "itemId": "legacy-github-tapflow",
     "metricKey": "github_forks",
-    "value": 183,
+    "value": 197,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/jo-duchan/tapflow",
-    "checkedAt": "2026-11-08T23:59:27.452049+00:00"
+    "checkedAt": "2026-11-12T11:52:08.875019+00:00"
   },
   {
     "itemId": "legacy-github-skills-repo",
@@ -189,7 +189,7 @@
     "value": 65,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/jha0313/skills_repo",
-    "checkedAt": "2026-11-08T23:59:27.070767+00:00"
+    "checkedAt": "2026-11-12T11:52:08.520065+00:00"
   },
   {
     "itemId": "legacy-github-dryforge",
@@ -197,7 +197,7 @@
     "value": 39,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/prekuter/dryforge",
-    "checkedAt": "2026-11-08T23:59:26.252275+00:00"
+    "checkedAt": "2026-11-12T11:52:07.769357+00:00"
   },
   {
     "itemId": "legacy-github-codex-live-demo",
@@ -205,7 +205,7 @@
     "value": 10,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/jha0313/codex-live-demo",
-    "checkedAt": "2026-11-08T23:59:26.213441+00:00"
+    "checkedAt": "2026-11-12T11:52:07.499166+00:00"
   },
   {
     "itemId": "legacy-github-deep-suite",
@@ -213,7 +213,7 @@
     "value": 6,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/Sungmin-Cho/deep-suite",
-    "checkedAt": "2026-11-08T23:59:26.219032+00:00"
+    "checkedAt": "2026-11-12T11:52:07.528411+00:00"
   },
   {
     "itemId": "legacy-github-presentation-slide",
@@ -221,7 +221,7 @@
     "value": 6,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/jha0313/presentation-slide",
-    "checkedAt": "2026-11-08T23:59:26.778729+00:00"
+    "checkedAt": "2026-11-12T11:52:08.252840+00:00"
   },
   {
     "itemId": "legacy-github-agentic-project-init",
@@ -229,7 +229,7 @@
     "value": 2,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/taehyunan-99/agentic-project-init",
-    "checkedAt": "2026-11-08T23:59:25.785513+00:00"
+    "checkedAt": "2026-11-12T11:52:06.553067+00:00"
   },
   {
     "itemId": "legacy-github-workforge-mcp",
@@ -237,7 +237,7 @@
     "value": 3,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/NotNull92/workforge-mcp",
-    "checkedAt": "2026-11-08T23:59:27.828963+00:00"
+    "checkedAt": "2026-11-12T11:52:09.322938+00:00"
   },
   {
     "itemId": "4a7dd084-833a-4cf3-b5eb-a4cc1ff61eea",
@@ -245,7 +245,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/taewooyo/volcano",
-    "checkedAt": "2026-11-08T23:59:29.260223+00:00"
+    "checkedAt": "2026-11-12T11:52:11.309751+00:00"
   },
   {
     "itemId": "legacy-github-awa",
@@ -253,7 +253,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/taehyunan-99/awa",
-    "checkedAt": "2026-11-08T23:59:25.786199+00:00"
+    "checkedAt": "2026-11-12T11:52:07.056132+00:00"
   },
   {
     "itemId": "legacy-github-second-brain-engine",
@@ -261,7 +261,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/alsgur9865-sketch/second-brain-engine",
-    "checkedAt": "2026-11-08T23:59:27.032704+00:00"
+    "checkedAt": "2026-11-12T11:52:08.325124+00:00"
   },
   {
     "itemId": "legacy-github-sns-app",
@@ -269,7 +269,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/riosee2415/un-developer-harness-lecture-sns-app",
-    "checkedAt": "2026-11-08T23:59:27.168257+00:00"
+    "checkedAt": "2026-11-12T11:52:08.751468+00:00"
   },
   {
     "itemId": "legacy-github-veriloop",
@@ -277,7 +277,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/dev-geon/veriloop",
-    "checkedAt": "2026-11-08T23:59:27.497613+00:00"
+    "checkedAt": "2026-11-12T11:52:09.033815+00:00"
   },
   {
     "itemId": "legacy-github-aquagarden",
@@ -285,7 +285,7 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/outliner-coach/aquagarden-for-builder",
-    "checkedAt": "2026-11-08T23:59:25.785967+00:00"
+    "checkedAt": "2026-11-12T11:52:07.002076+00:00"
   },
   {
     "itemId": "legacy-github-claude-rx",
@@ -293,7 +293,7 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/alsgur9865-sketch/claude-rx",
-    "checkedAt": "2026-11-08T23:59:25.786508+00:00"
+    "checkedAt": "2026-11-12T11:52:07.239497+00:00"
   },
   {
     "itemId": "legacy-github-design-guideline",
@@ -301,7 +301,7 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/taehyunan-99/design_guideline_repo",
-    "checkedAt": "2026-11-08T23:59:26.235379+00:00"
+    "checkedAt": "2026-11-12T11:52:07.725133+00:00"
   },
   {
     "itemId": "legacy-github-disease-atlas",
@@ -309,7 +309,7 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/Haneul-two/disease-atlas",
-    "checkedAt": "2026-11-08T23:59:28.840606+00:00"
+    "checkedAt": "2026-11-12T11:52:11.094660+00:00"
   },
   {
     "itemId": "legacy-github-letter-coach",
@@ -317,7 +317,7 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/kjhchs2/letter-coach",
-    "checkedAt": "2026-11-08T23:59:26.631242+00:00"
+    "checkedAt": "2026-11-12T11:52:08.016211+00:00"
   },
   {
     "itemId": "legacy-github-math-assist",
@@ -325,7 +325,7 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/outliner-coach/math_assist",
-    "checkedAt": "2026-11-08T23:59:26.705120+00:00"
+    "checkedAt": "2026-11-12T11:52:08.025789+00:00"
   },
   {
     "itemId": "legacy-github-smt-coach",
@@ -333,7 +333,7 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/swingwave-ops/smt-coach",
-    "checkedAt": "2026-11-08T23:59:27.071170+00:00"
+    "checkedAt": "2026-11-12T11:52:08.624352+00:00"
   },
   {
     "itemId": "legacy-github-voiceclonedub",
@@ -341,7 +341,7 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/dalsoop/voiceclonedub",
-    "checkedAt": "2026-11-08T23:59:27.554721+00:00"
+    "checkedAt": "2026-11-12T11:52:09.142703+00:00"
   },
   {
     "itemId": "legacy-service-disease-atlas",
@@ -349,15 +349,15 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://api.github.com/repos/Haneul-two/disease-atlas",
-    "checkedAt": "2026-11-08T23:59:28.996241+00:00"
+    "checkedAt": "2026-11-12T11:52:11.095832+00:00"
   },
   {
     "itemId": "legacy-service-geummaecatch",
     "metricKey": "app_downloads",
-    "value": 1000,
+    "value": 5000,
     "unit": "회 이상",
     "sourceUrl": "https://play.google.com/store/apps/details?id=com.geummaecatch.app&hl=en&gl=US",
-    "checkedAt": "2026-11-08T23:59:27.872494+00:00"
+    "checkedAt": "2026-11-12T11:52:09.422458+00:00"
   },
   {
     "itemId": "legacy-service-mayu",
@@ -365,7 +365,7 @@
     "value": 1000,
     "unit": "회 이상",
     "sourceUrl": "https://play.google.com/store/apps/details?id=com.habitus.mayu&hl=en&gl=US",
-    "checkedAt": "2026-11-08T23:59:28.262546+00:00"
+    "checkedAt": "2026-11-12T11:52:09.947712+00:00"
   },
   {
     "itemId": "legacy-service-togethery",
@@ -373,7 +373,7 @@
     "value": 1000,
     "unit": "회 이상",
     "sourceUrl": "https://play.google.com/store/apps/details?id=app.togethery&hl=en&gl=US",
-    "checkedAt": "2026-11-08T23:59:28.526994+00:00"
+    "checkedAt": "2026-11-12T11:52:10.292301+00:00"
   },
   {
     "itemId": "legacy-service-kineticue",
@@ -381,7 +381,7 @@
     "value": 50,
     "unit": "회 이상",
     "sourceUrl": "https://play.google.com/store/apps/details?id=com.kineticue&hl=en&gl=US",
-    "checkedAt": "2026-11-08T23:59:27.982907+00:00"
+    "checkedAt": "2026-11-12T11:52:09.812413+00:00"
   },
   {
     "itemId": "legacy-service-teamsquad",
@@ -389,7 +389,7 @@
     "value": 100,
     "unit": "회 이상",
     "sourceUrl": "https://play.google.com/store/apps/details?id=com.teamsquad.app&hl=en&gl=US",
-    "checkedAt": "2026-11-08T23:59:28.444194+00:00"
+    "checkedAt": "2026-11-12T11:52:10.264899+00:00"
   },
   {
     "itemId": "legacy-service-imjang",
@@ -397,15 +397,15 @@
     "value": 10,
     "unit": "회 이상",
     "sourceUrl": "https://play.google.com/store/apps/details?id=com.ssacksru.imjang&hl=en&gl=US",
-    "checkedAt": "2026-11-08T23:59:28.667831+00:00"
+    "checkedAt": "2026-11-12T11:52:11.018654+00:00"
   },
   {
     "itemId": "legacy-service-whisper-live",
     "metricKey": "app_ratings",
-    "value": 47,
+    "value": 46,
     "unit": "개",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6789161883&country=kr",
-    "checkedAt": "2026-11-08T23:59:28.565998+00:00"
+    "checkedAt": "2026-11-12T11:52:10.592234+00:00"
   },
   {
     "itemId": "legacy-service-goldtime",
@@ -413,7 +413,7 @@
     "value": 6,
     "unit": "개",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6772543300&country=kr",
-    "checkedAt": "2026-11-08T23:59:27.925494+00:00"
+    "checkedAt": "2026-11-12T11:52:09.610875+00:00"
   },
   {
     "itemId": "legacy-service-mayu",
@@ -421,7 +421,7 @@
     "value": 7,
     "unit": "개",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6787935145&country=kr",
-    "checkedAt": "2026-11-08T23:59:28.223707+00:00"
+    "checkedAt": "2026-11-12T11:52:09.938185+00:00"
   },
   {
     "itemId": "legacy-service-naru",
@@ -429,7 +429,7 @@
     "value": 2,
     "unit": "개",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6801597847&country=kr",
-    "checkedAt": "2026-11-08T23:59:29.087777+00:00"
+    "checkedAt": "2026-11-12T11:52:11.109494+00:00"
   },
   {
     "itemId": "legacy-service-kineticue",
@@ -437,7 +437,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6783980696&country=kr",
-    "checkedAt": "2026-11-08T23:59:27.963055+00:00"
+    "checkedAt": "2026-11-12T11:52:09.629095+00:00"
   },
   {
     "itemId": "legacy-service-teamsquad",
@@ -445,7 +445,7 @@
     "value": 1,
     "unit": "개",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6787701302&country=kr",
-    "checkedAt": "2026-11-08T23:59:28.385288+00:00"
+    "checkedAt": "2026-11-12T11:52:10.103180+00:00"
   },
   {
     "itemId": "legacy-service-imjang",
@@ -453,7 +453,7 @@
     "value": 0,
     "unit": "개",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6792628237&country=kr",
-    "checkedAt": "2026-11-08T23:59:28.608382+00:00"
+    "checkedAt": "2026-11-12T11:52:10.722402+00:00"
   },
   {
     "itemId": "legacy-service-kineticue",
@@ -461,7 +461,7 @@
     "value": 5,
     "unit": "점",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6783980696&country=kr",
-    "checkedAt": "2026-11-08T23:59:27.963055+00:00"
+    "checkedAt": "2026-11-12T11:52:09.629095+00:00"
   },
   {
     "itemId": "legacy-service-mayu",
@@ -469,7 +469,7 @@
     "value": 5,
     "unit": "점",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6787935145&country=kr",
-    "checkedAt": "2026-11-08T23:59:28.223707+00:00"
+    "checkedAt": "2026-11-12T11:52:09.938185+00:00"
   },
   {
     "itemId": "legacy-service-naru",
@@ -477,7 +477,7 @@
     "value": 5,
     "unit": "점",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6801597847&country=kr",
-    "checkedAt": "2026-11-08T23:59:29.087777+00:00"
+    "checkedAt": "2026-11-12T11:52:11.109494+00:00"
   },
   {
     "itemId": "legacy-service-teamsquad",
@@ -485,15 +485,15 @@
     "value": 5,
     "unit": "점",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6787701302&country=kr",
-    "checkedAt": "2026-11-08T23:59:28.385288+00:00"
+    "checkedAt": "2026-11-12T11:52:10.103180+00:00"
   },
   {
     "itemId": "legacy-service-whisper-live",
     "metricKey": "app_store_rating",
-    "value": 4.97872,
+    "value": 4.97825,
     "unit": "점",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6789161883&country=kr",
-    "checkedAt": "2026-11-08T23:59:28.565998+00:00"
+    "checkedAt": "2026-11-12T11:52:10.592234+00:00"
   },
   {
     "itemId": "legacy-service-goldtime",
@@ -501,7 +501,7 @@
     "value": 4.5,
     "unit": "점",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6772543300&country=kr",
-    "checkedAt": "2026-11-08T23:59:27.925494+00:00"
+    "checkedAt": "2026-11-12T11:52:09.610875+00:00"
   },
   {
     "itemId": "legacy-service-imjang",
@@ -509,6 +509,174 @@
     "value": 0,
     "unit": "점",
     "sourceUrl": "https://itunes.apple.com/lookup?id=6792628237&country=kr",
-    "checkedAt": "2026-11-08T23:59:28.608382+00:00"
+    "checkedAt": "2026-11-12T11:52:10.722402+00:00"
+  },
+  {
+    "itemId": "club-3feed171d473",
+    "metricKey": "github_forks",
+    "value": 2,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/json-choi/dopedb",
+    "checkedAt": "2026-11-12T11:52:05.902503+00:00"
+  },
+  {
+    "itemId": "club-3feed171d473",
+    "metricKey": "github_stars",
+    "value": 13,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/json-choi/dopedb",
+    "checkedAt": "2026-11-12T11:52:05.902503+00:00"
+  },
+  {
+    "itemId": "club-45a0f2bd4599",
+    "metricKey": "github_forks",
+    "value": 3,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dalsoop/rustdesk-korean",
+    "checkedAt": "2026-11-12T11:52:05.902358+00:00"
+  },
+  {
+    "itemId": "club-45a0f2bd4599",
+    "metricKey": "github_stars",
+    "value": 24,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dalsoop/rustdesk-korean",
+    "checkedAt": "2026-11-12T11:52:05.902358+00:00"
+  },
+  {
+    "itemId": "club-46e4f73c48c6",
+    "metricKey": "app_downloads",
+    "value": 0,
+    "unit": "회 이상",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.higames.shieldbearer&hl=en&gl=US",
+    "checkedAt": "2026-11-12T11:52:06.464816+00:00"
+  },
+  {
+    "itemId": "club-4f8479f122a7",
+    "metricKey": "app_downloads",
+    "value": 1,
+    "unit": "회 이상",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.higames.treasuretaptap.memories&hl=en&gl=US",
+    "checkedAt": "2026-11-12T11:52:12.338122+00:00"
+  },
+  {
+    "itemId": "club-659985a35103",
+    "metricKey": "app_downloads",
+    "value": 50,
+    "unit": "회 이상",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.rootgames.fruitflyidle&hl=en&gl=US",
+    "checkedAt": "2026-11-12T11:52:11.823128+00:00"
+  },
+  {
+    "itemId": "club-78c43cca4689",
+    "metricKey": "github_forks",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dalsoop/diy-device-os-bootstrap",
+    "checkedAt": "2026-11-12T11:52:05.902229+00:00"
+  },
+  {
+    "itemId": "club-78c43cca4689",
+    "metricKey": "github_stars",
+    "value": 16,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dalsoop/diy-device-os-bootstrap",
+    "checkedAt": "2026-11-12T11:52:05.902229+00:00"
+  },
+  {
+    "itemId": "club-7ee8b2d7de9e",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dalsoop/diy-llm-subscription-management-hub-toolkit",
+    "checkedAt": "2026-11-12T11:52:06.448480+00:00"
+  },
+  {
+    "itemId": "club-7ee8b2d7de9e",
+    "metricKey": "github_stars",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dalsoop/diy-llm-subscription-management-hub-toolkit",
+    "checkedAt": "2026-11-12T11:52:06.448480+00:00"
+  },
+  {
+    "itemId": "club-83fb0fbd7584",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/outliner-coach/workspace-index-kit",
+    "checkedAt": "2026-11-12T11:52:05.902779+00:00"
+  },
+  {
+    "itemId": "club-83fb0fbd7584",
+    "metricKey": "github_stars",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/outliner-coach/workspace-index-kit",
+    "checkedAt": "2026-11-12T11:52:05.902779+00:00"
+  },
+  {
+    "itemId": "club-cebb6018392a",
+    "metricKey": "github_forks",
+    "value": 2,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dalsoop/nvidia-hackaton-2026-one",
+    "checkedAt": "2026-11-12T11:52:11.911408+00:00"
+  },
+  {
+    "itemId": "club-cebb6018392a",
+    "metricKey": "github_stars",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dalsoop/nvidia-hackaton-2026-one",
+    "checkedAt": "2026-11-12T11:52:11.911408+00:00"
+  },
+  {
+    "itemId": "club-d17828d790cf",
+    "metricKey": "app_ratings",
+    "value": 2,
+    "unit": "개",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6759539471&country=kr",
+    "checkedAt": "2026-11-12T11:52:11.811054+00:00"
+  },
+  {
+    "itemId": "club-d17828d790cf",
+    "metricKey": "app_store_rating",
+    "value": 5,
+    "unit": "점",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6759539471&country=kr",
+    "checkedAt": "2026-11-12T11:52:11.811054+00:00"
+  },
+  {
+    "itemId": "club-e29f7f184da4",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taejs/e2evm",
+    "checkedAt": "2026-11-12T11:52:06.462126+00:00"
+  },
+  {
+    "itemId": "club-e29f7f184da4",
+    "metricKey": "github_stars",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taejs/e2evm",
+    "checkedAt": "2026-11-12T11:52:06.462126+00:00"
+  },
+  {
+    "itemId": "club-eb41d62e3086",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/This-HW/hiway-kit",
+    "checkedAt": "2026-11-12T11:52:12.067957+00:00"
+  },
+  {
+    "itemId": "club-eb41d62e3086",
+    "metricKey": "github_stars",
+    "value": 3,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/This-HW/hiway-kit",
+    "checkedAt": "2026-11-12T11:52:12.067957+00:00"
   }
 ]
