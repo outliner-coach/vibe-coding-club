@@ -1,0 +1,554 @@
+[
+  {
+    "itemId": "legacy-github-tapflow",
+    "metricKey": "github_stars",
+    "value": 1783,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/jo-duchan/tapflow",
+    "checkedAt": "2026-11-08T23:59:27.452049+00:00"
+  },
+  {
+    "itemId": "legacy-github-dryforge",
+    "metricKey": "github_stars",
+    "value": 442,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/prekuter/dryforge",
+    "checkedAt": "2026-11-08T23:59:26.252275+00:00"
+  },
+  {
+    "itemId": "legacy-github-skills-repo",
+    "metricKey": "github_stars",
+    "value": 105,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/jha0313/skills_repo",
+    "checkedAt": "2026-11-08T23:59:27.070767+00:00"
+  },
+  {
+    "itemId": "legacy-github-codex-live-demo",
+    "metricKey": "github_stars",
+    "value": 21,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/jha0313/codex-live-demo",
+    "checkedAt": "2026-11-08T23:59:26.213441+00:00"
+  },
+  {
+    "itemId": "4a7dd084-833a-4cf3-b5eb-a4cc1ff61eea",
+    "metricKey": "github_stars",
+    "value": 15,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taewooyo/volcano",
+    "checkedAt": "2026-11-08T23:59:29.260223+00:00"
+  },
+  {
+    "itemId": "legacy-github-agentic-project-init",
+    "metricKey": "github_stars",
+    "value": 14,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taehyunan-99/agentic-project-init",
+    "checkedAt": "2026-11-08T23:59:25.785513+00:00"
+  },
+  {
+    "itemId": "legacy-github-second-brain-engine",
+    "metricKey": "github_stars",
+    "value": 12,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/alsgur9865-sketch/second-brain-engine",
+    "checkedAt": "2026-11-08T23:59:27.032704+00:00"
+  },
+  {
+    "itemId": "legacy-github-flight-price-watch",
+    "metricKey": "github_stars",
+    "value": 10,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/AgentBridge-Lab/flight-price-watch",
+    "checkedAt": "2026-09-28T00:02:59.764897+00:00"
+  },
+  {
+    "itemId": "legacy-github-workforge-mcp",
+    "metricKey": "github_stars",
+    "value": 18,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/NotNull92/workforge-mcp",
+    "checkedAt": "2026-11-08T23:59:27.828963+00:00"
+  },
+  {
+    "itemId": "legacy-github-deep-suite",
+    "metricKey": "github_stars",
+    "value": 9,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/Sungmin-Cho/deep-suite",
+    "checkedAt": "2026-11-08T23:59:26.219032+00:00"
+  },
+  {
+    "itemId": "legacy-github-presentation-slide",
+    "metricKey": "github_stars",
+    "value": 9,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/jha0313/presentation-slide",
+    "checkedAt": "2026-11-08T23:59:26.778729+00:00"
+  },
+  {
+    "itemId": "legacy-github-aquagarden",
+    "metricKey": "github_stars",
+    "value": 6,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/outliner-coach/aquagarden-for-builder",
+    "checkedAt": "2026-11-08T23:59:25.785967+00:00"
+  },
+  {
+    "itemId": "legacy-github-claude-rx",
+    "metricKey": "github_stars",
+    "value": 7,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/alsgur9865-sketch/claude-rx",
+    "checkedAt": "2026-11-08T23:59:25.786508+00:00"
+  },
+  {
+    "itemId": "legacy-github-veriloop",
+    "metricKey": "github_stars",
+    "value": 7,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dev-geon/veriloop",
+    "checkedAt": "2026-11-08T23:59:27.497613+00:00"
+  },
+  {
+    "itemId": "legacy-github-awa",
+    "metricKey": "github_stars",
+    "value": 5,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taehyunan-99/awa",
+    "checkedAt": "2026-11-08T23:59:25.786199+00:00"
+  },
+  {
+    "itemId": "legacy-github-voiceclonedub",
+    "metricKey": "github_stars",
+    "value": 5,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dalsoop/voiceclonedub",
+    "checkedAt": "2026-11-08T23:59:27.554721+00:00"
+  },
+  {
+    "itemId": "legacy-github-design-guideline",
+    "metricKey": "github_stars",
+    "value": 3,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taehyunan-99/design_guideline_repo",
+    "checkedAt": "2026-11-08T23:59:26.235379+00:00"
+  },
+  {
+    "itemId": "legacy-github-letter-coach",
+    "metricKey": "github_stars",
+    "value": 3,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/kjhchs2/letter-coach",
+    "checkedAt": "2026-11-08T23:59:26.631242+00:00"
+  },
+  {
+    "itemId": "legacy-github-disease-atlas",
+    "metricKey": "github_stars",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/Haneul-two/disease-atlas",
+    "checkedAt": "2026-11-08T23:59:28.840606+00:00"
+  },
+  {
+    "itemId": "legacy-github-math-assist",
+    "metricKey": "github_stars",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/outliner-coach/math_assist",
+    "checkedAt": "2026-11-08T23:59:26.705120+00:00"
+  },
+  {
+    "itemId": "legacy-github-sns-app",
+    "metricKey": "github_stars",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/riosee2415/un-developer-harness-lecture-sns-app",
+    "checkedAt": "2026-11-08T23:59:27.168257+00:00"
+  },
+  {
+    "itemId": "legacy-service-disease-atlas",
+    "metricKey": "github_stars",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/Haneul-two/disease-atlas",
+    "checkedAt": "2026-11-08T23:59:28.996241+00:00"
+  },
+  {
+    "itemId": "legacy-github-smt-coach",
+    "metricKey": "github_stars",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/swingwave-ops/smt-coach",
+    "checkedAt": "2026-11-08T23:59:27.071170+00:00"
+  },
+  {
+    "itemId": "legacy-github-ultracode",
+    "metricKey": "github_stars",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taehyunan-99/ultracode",
+    "checkedAt": "2026-09-28T00:03:00.595214+00:00"
+  },
+  {
+    "itemId": "legacy-github-tapflow",
+    "metricKey": "github_forks",
+    "value": 183,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/jo-duchan/tapflow",
+    "checkedAt": "2026-11-08T23:59:27.452049+00:00"
+  },
+  {
+    "itemId": "legacy-github-skills-repo",
+    "metricKey": "github_forks",
+    "value": 65,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/jha0313/skills_repo",
+    "checkedAt": "2026-11-08T23:59:27.070767+00:00"
+  },
+  {
+    "itemId": "legacy-github-dryforge",
+    "metricKey": "github_forks",
+    "value": 39,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/prekuter/dryforge",
+    "checkedAt": "2026-11-08T23:59:26.252275+00:00"
+  },
+  {
+    "itemId": "legacy-github-codex-live-demo",
+    "metricKey": "github_forks",
+    "value": 10,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/jha0313/codex-live-demo",
+    "checkedAt": "2026-11-08T23:59:26.213441+00:00"
+  },
+  {
+    "itemId": "legacy-github-deep-suite",
+    "metricKey": "github_forks",
+    "value": 6,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/Sungmin-Cho/deep-suite",
+    "checkedAt": "2026-11-08T23:59:26.219032+00:00"
+  },
+  {
+    "itemId": "legacy-github-presentation-slide",
+    "metricKey": "github_forks",
+    "value": 6,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/jha0313/presentation-slide",
+    "checkedAt": "2026-11-08T23:59:26.778729+00:00"
+  },
+  {
+    "itemId": "legacy-github-agentic-project-init",
+    "metricKey": "github_forks",
+    "value": 2,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taehyunan-99/agentic-project-init",
+    "checkedAt": "2026-11-08T23:59:25.785513+00:00"
+  },
+  {
+    "itemId": "legacy-github-flight-price-watch",
+    "metricKey": "github_forks",
+    "value": 2,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/AgentBridge-Lab/flight-price-watch",
+    "checkedAt": "2026-09-28T00:02:59.764897+00:00"
+  },
+  {
+    "itemId": "legacy-github-workforge-mcp",
+    "metricKey": "github_forks",
+    "value": 3,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/NotNull92/workforge-mcp",
+    "checkedAt": "2026-11-08T23:59:27.828963+00:00"
+  },
+  {
+    "itemId": "4a7dd084-833a-4cf3-b5eb-a4cc1ff61eea",
+    "metricKey": "github_forks",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taewooyo/volcano",
+    "checkedAt": "2026-11-08T23:59:29.260223+00:00"
+  },
+  {
+    "itemId": "legacy-github-awa",
+    "metricKey": "github_forks",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taehyunan-99/awa",
+    "checkedAt": "2026-11-08T23:59:25.786199+00:00"
+  },
+  {
+    "itemId": "legacy-github-second-brain-engine",
+    "metricKey": "github_forks",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/alsgur9865-sketch/second-brain-engine",
+    "checkedAt": "2026-11-08T23:59:27.032704+00:00"
+  },
+  {
+    "itemId": "legacy-github-sns-app",
+    "metricKey": "github_forks",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/riosee2415/un-developer-harness-lecture-sns-app",
+    "checkedAt": "2026-11-08T23:59:27.168257+00:00"
+  },
+  {
+    "itemId": "legacy-github-veriloop",
+    "metricKey": "github_forks",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dev-geon/veriloop",
+    "checkedAt": "2026-11-08T23:59:27.497613+00:00"
+  },
+  {
+    "itemId": "legacy-github-aquagarden",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/outliner-coach/aquagarden-for-builder",
+    "checkedAt": "2026-11-08T23:59:25.785967+00:00"
+  },
+  {
+    "itemId": "legacy-github-claude-rx",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/alsgur9865-sketch/claude-rx",
+    "checkedAt": "2026-11-08T23:59:25.786508+00:00"
+  },
+  {
+    "itemId": "legacy-github-design-guideline",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taehyunan-99/design_guideline_repo",
+    "checkedAt": "2026-11-08T23:59:26.235379+00:00"
+  },
+  {
+    "itemId": "legacy-github-disease-atlas",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/Haneul-two/disease-atlas",
+    "checkedAt": "2026-11-08T23:59:28.840606+00:00"
+  },
+  {
+    "itemId": "legacy-github-letter-coach",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/kjhchs2/letter-coach",
+    "checkedAt": "2026-11-08T23:59:26.631242+00:00"
+  },
+  {
+    "itemId": "legacy-github-math-assist",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/outliner-coach/math_assist",
+    "checkedAt": "2026-11-08T23:59:26.705120+00:00"
+  },
+  {
+    "itemId": "legacy-github-smt-coach",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/swingwave-ops/smt-coach",
+    "checkedAt": "2026-11-08T23:59:27.071170+00:00"
+  },
+  {
+    "itemId": "legacy-github-ultracode",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/taehyunan-99/ultracode",
+    "checkedAt": "2026-09-28T00:03:00.595214+00:00"
+  },
+  {
+    "itemId": "legacy-github-voiceclonedub",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/dalsoop/voiceclonedub",
+    "checkedAt": "2026-11-08T23:59:27.554721+00:00"
+  },
+  {
+    "itemId": "legacy-service-disease-atlas",
+    "metricKey": "github_forks",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://api.github.com/repos/Haneul-two/disease-atlas",
+    "checkedAt": "2026-11-08T23:59:28.996241+00:00"
+  },
+  {
+    "itemId": "legacy-service-geummaecatch",
+    "metricKey": "app_downloads",
+    "value": 1000,
+    "unit": "회 이상",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.geummaecatch.app&hl=en&gl=US",
+    "checkedAt": "2026-11-08T23:59:27.872494+00:00"
+  },
+  {
+    "itemId": "legacy-service-mayu",
+    "metricKey": "app_downloads",
+    "value": 1000,
+    "unit": "회 이상",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.habitus.mayu&hl=en&gl=US",
+    "checkedAt": "2026-11-08T23:59:28.262546+00:00"
+  },
+  {
+    "itemId": "legacy-service-togethery",
+    "metricKey": "app_downloads",
+    "value": 1000,
+    "unit": "회 이상",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=app.togethery&hl=en&gl=US",
+    "checkedAt": "2026-11-08T23:59:28.526994+00:00"
+  },
+  {
+    "itemId": "legacy-service-kineticue",
+    "metricKey": "app_downloads",
+    "value": 50,
+    "unit": "회 이상",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.kineticue&hl=en&gl=US",
+    "checkedAt": "2026-11-08T23:59:27.982907+00:00"
+  },
+  {
+    "itemId": "legacy-service-teamsquad",
+    "metricKey": "app_downloads",
+    "value": 100,
+    "unit": "회 이상",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.teamsquad.app&hl=en&gl=US",
+    "checkedAt": "2026-11-08T23:59:28.444194+00:00"
+  },
+  {
+    "itemId": "legacy-service-imjang",
+    "metricKey": "app_downloads",
+    "value": 10,
+    "unit": "회 이상",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ssacksru.imjang&hl=en&gl=US",
+    "checkedAt": "2026-11-08T23:59:28.667831+00:00"
+  },
+  {
+    "itemId": "legacy-service-lawtrack",
+    "metricKey": "app_downloads",
+    "value": 10,
+    "unit": "회 이상",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=kr.lawtrack.app&hl=en&gl=US",
+    "checkedAt": "2026-11-08T23:59:28.035332+00:00"
+  },
+  {
+    "itemId": "legacy-service-whisper-live",
+    "metricKey": "app_ratings",
+    "value": 47,
+    "unit": "개",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6789161883&country=kr",
+    "checkedAt": "2026-11-08T23:59:28.565998+00:00"
+  },
+  {
+    "itemId": "legacy-service-goldtime",
+    "metricKey": "app_ratings",
+    "value": 6,
+    "unit": "개",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6772543300&country=kr",
+    "checkedAt": "2026-11-08T23:59:27.925494+00:00"
+  },
+  {
+    "itemId": "legacy-service-mayu",
+    "metricKey": "app_ratings",
+    "value": 7,
+    "unit": "개",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6787935145&country=kr",
+    "checkedAt": "2026-11-08T23:59:28.223707+00:00"
+  },
+  {
+    "itemId": "legacy-service-naru",
+    "metricKey": "app_ratings",
+    "value": 2,
+    "unit": "개",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6801597847&country=kr",
+    "checkedAt": "2026-11-08T23:59:29.087777+00:00"
+  },
+  {
+    "itemId": "legacy-service-kineticue",
+    "metricKey": "app_ratings",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6783980696&country=kr",
+    "checkedAt": "2026-11-08T23:59:27.963055+00:00"
+  },
+  {
+    "itemId": "legacy-service-teamsquad",
+    "metricKey": "app_ratings",
+    "value": 1,
+    "unit": "개",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6787701302&country=kr",
+    "checkedAt": "2026-11-08T23:59:28.385288+00:00"
+  },
+  {
+    "itemId": "legacy-service-imjang",
+    "metricKey": "app_ratings",
+    "value": 0,
+    "unit": "개",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6792628237&country=kr",
+    "checkedAt": "2026-11-08T23:59:28.608382+00:00"
+  },
+  {
+    "itemId": "legacy-service-kineticue",
+    "metricKey": "app_store_rating",
+    "value": 5,
+    "unit": "점",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6783980696&country=kr",
+    "checkedAt": "2026-11-08T23:59:27.963055+00:00"
+  },
+  {
+    "itemId": "legacy-service-mayu",
+    "metricKey": "app_store_rating",
+    "value": 5,
+    "unit": "점",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6787935145&country=kr",
+    "checkedAt": "2026-11-08T23:59:28.223707+00:00"
+  },
+  {
+    "itemId": "legacy-service-naru",
+    "metricKey": "app_store_rating",
+    "value": 5,
+    "unit": "점",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6801597847&country=kr",
+    "checkedAt": "2026-11-08T23:59:29.087777+00:00"
+  },
+  {
+    "itemId": "legacy-service-teamsquad",
+    "metricKey": "app_store_rating",
+    "value": 5,
+    "unit": "점",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6787701302&country=kr",
+    "checkedAt": "2026-11-08T23:59:28.385288+00:00"
+  },
+  {
+    "itemId": "legacy-service-whisper-live",
+    "metricKey": "app_store_rating",
+    "value": 4.97872,
+    "unit": "점",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6789161883&country=kr",
+    "checkedAt": "2026-11-08T23:59:28.565998+00:00"
+  },
+  {
+    "itemId": "legacy-service-goldtime",
+    "metricKey": "app_store_rating",
+    "value": 4.5,
+    "unit": "점",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6772543300&country=kr",
+    "checkedAt": "2026-11-08T23:59:27.925494+00:00"
+  },
+  {
+    "itemId": "legacy-service-imjang",
+    "metricKey": "app_store_rating",
+    "value": 0,
+    "unit": "점",
+    "sourceUrl": "https://itunes.apple.com/lookup?id=6792628237&country=kr",
+    "checkedAt": "2026-11-08T23:59:28.608382+00:00"
+  }
+]

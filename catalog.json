@@ -1,0 +1,603 @@
+[
+  {
+    "id": "club-78c43cca4689",
+    "title": "diy-device-os-bootstrap",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/dalsoop/diy-device-os-bootstrap",
+    "description": "여러 운영체제 설치를 한 USB에서 준비하는 홈랩 도구."
+  },
+  {
+    "id": "club-45a0f2bd4599",
+    "title": "RustDesk 한글 입력 수정판",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/dalsoop/rustdesk-korean",
+    "description": "원격 접속 도구 RustDesk의 한글 자모 분리 문제를 수정한 포크."
+  },
+  {
+    "id": "club-3feed171d473",
+    "title": "DopeDB",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/json-choi/dopedb",
+    "description": "데이터베이스를 조회하고 관리하는 DB 클라이언트."
+  },
+  {
+    "id": "club-83fb0fbd7584",
+    "title": "Workspace Index Kit",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/outliner-coach/workspace-index-kit",
+    "description": "여러 프로젝트를 한 작업 폴더에서 찾아 관리하는 도구."
+  },
+  {
+    "id": "club-7ee8b2d7de9e",
+    "title": "LLM Subscription Management Hub Toolkit",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/dalsoop/diy-llm-subscription-management-hub-toolkit",
+    "description": "여러 AI 코딩 도구의 구독과 작업 환경을 한곳에서 관리하는 도구."
+  },
+  {
+    "id": "club-e29f7f184da4",
+    "title": "E2EVM",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/taejs/e2evm",
+    "description": "Playwright 브라우저 테스트를 별도 가상 머신에서 실행하는 도구."
+  },
+  {
+    "id": "club-3da47c7fde91",
+    "title": "연무대 군인교회",
+    "kind": "service",
+    "canonicalUrl": "https://yeonmudae-chapel.vercel.app/",
+    "description": "친구들과 접속해 논산훈련소 군인교회 분위기를 체험하는 웹페이지."
+  },
+  {
+    "id": "club-23024f5b6038",
+    "title": "서울 웨딩홀 가격 비교",
+    "kind": "service",
+    "canonicalUrl": "https://weddingprice.kr",
+    "description": "웨딩홀과 스튜디오·드레스·메이크업 가격을 살펴보는 서비스."
+  },
+  {
+    "id": "club-541d4f118a1e",
+    "title": "Aquagarden Bench",
+    "kind": "service",
+    "canonicalUrl": "https://outliner-coach.github.io/aquagarden-bench/",
+    "description": "여러 AI 모델이 구현한 수족관을 비교하는 벤치마크."
+  },
+  {
+    "id": "club-ca21e421c836",
+    "title": "나만 이런 거 아니지?",
+    "kind": "service",
+    "canonicalUrl": "https://isitjustme.site/",
+    "description": "로그인 없이 익명 고민을 지도 위 불빛으로 남기고 서로 공감하는 서비스."
+  },
+  {
+    "id": "club-9f44c6c03a5e",
+    "title": "Donevio",
+    "kind": "service",
+    "canonicalUrl": "https://donevio.io/ko",
+    "description": "코드 변경이 제품 기능에 미치는 영향을 점검하는 AI 개발 도구."
+  },
+  {
+    "id": "club-46e4f73c48c6",
+    "title": "방패병 키우기: 용병단 방치형 RPG",
+    "kind": "service",
+    "canonicalUrl": "https://play.google.com/store/apps/details?id=com.higames.shieldbearer",
+    "description": "HIG가 출시한 안드로이드 게임."
+  },
+  {
+    "id": "legacy-github-agentic-project-init",
+    "title": "agentic-project-init",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/taehyunan-99/agentic-project-init",
+    "description": "Claude Code·Codex·Cursor 프로젝트에 에이전트 친화적 구조를 자동 초기화하는 스킬.",
+    "tags": [
+      "초기화",
+      "에이전트"
+    ]
+  },
+  {
+    "id": "legacy-github-aquagarden",
+    "title": "aquagarden-for-builder",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/outliner-coach/aquagarden-for-builder",
+    "description": "Claude Code 사용 현황을 보여주는 데스크톱 디지털 수족관 프로젝트.",
+    "tags": [
+      "데스크톱",
+      "시각화"
+    ]
+  },
+  {
+    "id": "legacy-github-awa",
+    "title": "awa",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/taehyunan-99/awa",
+    "description": "에이전트가 에이전트를 감시하는 감독된 자율성 플랫폼.",
+    "tags": [
+      "오케스트레이션",
+      "리뷰"
+    ]
+  },
+  {
+    "id": "legacy-github-claude-rx",
+    "title": "claude-rx",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/alsgur9865-sketch/claude-rx",
+    "description": "Claude Code가 CLAUDE.md를 얼마나 잘 따랐는지 감사하고 수정안을 제안하는 도구.",
+    "tags": [
+      "감사",
+      "Claude Code"
+    ]
+  },
+  {
+    "id": "legacy-github-codex-live-demo",
+    "title": "codex-live-demo",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/jha0313/codex-live-demo",
+    "description": "Codex 라이브 데모와 강의용 코드를 담은 저장소.",
+    "tags": [
+      "Codex",
+      "데모"
+    ]
+  },
+  {
+    "id": "legacy-github-deep-suite",
+    "title": "deep-suite",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/Sungmin-Cho/deep-suite",
+    "description": "Claude Code와 Codex를 위한 계획 우선 개발, 독립 리뷰, 장기 오케스트레이션 하네스.",
+    "tags": [
+      "harness",
+      "Codex"
+    ]
+  },
+  {
+    "id": "legacy-github-design-guideline",
+    "title": "design_guideline_repo",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/taehyunan-99/design_guideline_repo",
+    "description": "CSS 토큰과 디자인 가이드를 재사용하기 위한 저장소.",
+    "tags": [
+      "디자인",
+      "CSS"
+    ]
+  },
+  {
+    "id": "legacy-github-dryforge",
+    "title": "dryforge",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/prekuter/dryforge",
+    "description": "결정이 필요한 지점을 먼저 묻고 승인 후 작업하는 Claude Code·Codex 플러그인 하네스.",
+    "secondaryUrl": "https://dryforge.dev/ko",
+    "secondaryLabel": "서비스 소개",
+    "tags": [
+      "harness",
+      "승인 흐름"
+    ]
+  },
+  {
+    "id": "legacy-github-flight-price-watch",
+    "title": "flight-price-watch",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/AgentBridge-Lab/flight-price-watch",
+    "description": "국내선 항공권이 원하는 금액 아래로 내려가면 텔레그램으로 알려주는 봇.",
+    "tags": [
+      "항공권",
+      "알림"
+    ]
+  },
+  {
+    "id": "legacy-github-letter-coach",
+    "title": "letter-coach",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/kjhchs2/letter-coach",
+    "description": "좋은 문체에서 영감을 받아 진심 어린 편지를 쓰도록 돕는 에이전트 스킬.",
+    "tags": [
+      "글쓰기",
+      "Agent Skill"
+    ]
+  },
+  {
+    "id": "legacy-github-math-assist",
+    "title": "math_assist",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/outliner-coach/math_assist",
+    "description": "초등 수학 개념 학습과 게임형 연습문제를 제공하는 학습 프로젝트.",
+    "secondaryUrl": "https://outliner-coach.github.io/math_assist/grade/1",
+    "secondaryLabel": "배포된 학습 화면",
+    "tags": [
+      "교육",
+      "GitHub Pages"
+    ]
+  },
+  {
+    "id": "legacy-github-presentation-slide",
+    "title": "presentation-slide",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/jha0313/presentation-slide",
+    "description": "발표 슬라이드 제작과 관련된 저장소.",
+    "tags": [
+      "발표",
+      "자료"
+    ]
+  },
+  {
+    "id": "legacy-github-second-brain-engine",
+    "title": "second-brain-engine",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/alsgur9865-sketch/second-brain-engine",
+    "description": "대화를 자동 수집하고 의미 검색과 연결 노트로 회고하는 로컬 세컨드 브레인 엔진.",
+    "tags": [
+      "Second Brain",
+      "검색"
+    ]
+  },
+  {
+    "id": "legacy-github-skills-repo",
+    "title": "skills_repo",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/jha0313/skills_repo",
+    "description": "AI 에이전트용 스킬과 강의 자료를 모아둔 저장소.",
+    "tags": [
+      "Skills",
+      "강의"
+    ]
+  },
+  {
+    "id": "legacy-github-smt-coach",
+    "title": "smt-coach",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/swingwave-ops/smt-coach",
+    "description": "모델·프로바이더 선택을 돕는 도구. 저장소 페이지는 현재 살아 있지만 README 설명은 제한적임.",
+    "tags": [
+      "모델 선택",
+      "도구"
+    ]
+  },
+  {
+    "id": "legacy-github-sns-app",
+    "title": "un-developer-harness-lecture-sns-app",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/riosee2415/un-developer-harness-lecture-sns-app",
+    "description": "언디벨로퍼 하네스 강의에서 사용한 SNS 앱 소스.",
+    "tags": [
+      "SNS",
+      "강의"
+    ]
+  },
+  {
+    "id": "legacy-github-tapflow",
+    "title": "tapflow",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/jo-duchan/tapflow",
+    "description": "팀이 함께 쓰는 self-hosted iOS·Android 시뮬레이터 스트리밍과 MCP 기반 QA 자동화 실험.",
+    "tags": [
+      "QA 자동화",
+      "MCP"
+    ]
+  },
+  {
+    "id": "legacy-github-ultracode",
+    "title": "ultracode",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/taehyunan-99/ultracode",
+    "description": "Codex를 위한 증거 게이트형 오케스트레이션 스킬.",
+    "tags": [
+      "Codex",
+      "검증"
+    ]
+  },
+  {
+    "id": "legacy-github-veriloop",
+    "title": "veriloop",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/dev-geon/veriloop",
+    "description": "Codex와 Claude Code를 위한 명세 기반 코드 리뷰·수정 루프.",
+    "tags": [
+      "리뷰",
+      "자동화"
+    ]
+  },
+  {
+    "id": "legacy-github-voiceclonedub",
+    "title": "voiceclonedub",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/dalsoop/voiceclonedub",
+    "description": "자기 목소리로 영상을 다른 언어로 더빙하는 로컬 음성 클론 도구.",
+    "tags": [
+      "음성",
+      "더빙"
+    ]
+  },
+  {
+    "id": "legacy-github-workforge-mcp",
+    "title": "workforge-mcp",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/NotNull92/workforge-mcp",
+    "description": "ChatGPT가 로컬 파일을 살피고 Git 작업을 재개하며 SHA 검증 편집을 수행하게 하는 Windows MCP 게이트웨이.",
+    "tags": [
+      "MCP",
+      "Windows"
+    ]
+  },
+  {
+    "id": "legacy-service-ai-job-risk",
+    "title": "AI 직업 대체 위험도 진단",
+    "kind": "service",
+    "canonicalUrl": "https://aiattack.pages.dev",
+    "description": "직업의 AI 대체 위험도를 진단하고 생존 전략을 제안하는 인터랙티브 서비스.",
+    "tags": [
+      "진단",
+      "AI"
+    ]
+  },
+  {
+    "id": "legacy-service-aitoon",
+    "title": "AIToon",
+    "kind": "service",
+    "canonicalUrl": "https://valentine6532.github.io/webtoon",
+    "description": "AI 오리지널 웹툰 플랫폼. 채팅방에서는 AI 웹툰 제작 결과물로 소개됨.",
+    "tags": [
+      "웹툰",
+      "생성형 AI"
+    ]
+  },
+  {
+    "id": "legacy-service-bbanana",
+    "title": "빠나나 AI (BBANANA)",
+    "kind": "service",
+    "canonicalUrl": "https://www.bbanana.ai",
+    "description": "시댄스·클링·나노바나나·GPT IMAGE2 등 생성형 AI를 한 곳에서 관리·생성하는 한국형 AI 플랫폼.",
+    "tags": [
+      "생성형 AI",
+      "이미지"
+    ]
+  },
+  {
+    "id": "legacy-service-claude-code-lecture-hub",
+    "title": "Claude Code 강의 학습 자료 허브",
+    "kind": "service",
+    "canonicalUrl": "https://claude-code-lecture-silk.vercel.app",
+    "description": "Claude Code 강의 슬라이드·Notion 자료·실습 링크를 모아둔 학습 허브.",
+    "tags": [
+      "강의",
+      "학습"
+    ]
+  },
+  {
+    "id": "legacy-service-dbgaps",
+    "title": "DBGAPS",
+    "kind": "service",
+    "canonicalUrl": "https://dbgapsdashboard-production-3bd0.up.railway.app",
+    "description": "ETF 포트폴리오 운영을 위한 대시보드.",
+    "tags": [
+      "ETF",
+      "대시보드"
+    ]
+  },
+  {
+    "id": "legacy-service-geummaecatch",
+    "title": "급매캐치",
+    "kind": "service",
+    "canonicalUrl": "https://www.geummaecatch.com",
+    "description": "동·층·타입 프리미엄을 보정해 현재 매물이 싼지 분석하는 부동산 서비스.",
+    "tags": [
+      "부동산",
+      "분석"
+    ]
+  },
+  {
+    "id": "legacy-service-goldtime",
+    "title": "스크린타임 GoldTime",
+    "kind": "service",
+    "canonicalUrl": "https://apps.apple.com/kr/app/%EC%8A%A4%ED%81%AC%EB%A6%B0%ED%83%80%EC%9E%84-goldtime-%EC%95%B1-%EC%9E%A0%EA%B8%88-%EC%95%B1-%EC%B0%A8%EB%8B%A8/id6772543300",
+    "description": "광고 기반으로 많은 기능을 무료로 제공하는 스크린타임 관리 앱.",
+    "tags": [
+      "스크린타임",
+      "앱 차단"
+    ]
+  },
+  {
+    "id": "legacy-service-kineticue",
+    "title": "키네티큐 (KinetiCue)",
+    "kind": "service",
+    "canonicalUrl": "https://kineticue.com?role=viewer",
+    "description": "골프·테니스·필라테스·웨이트 자세를 프로 영상과 나란히 비교하는 듀얼뷰 분석 앱.",
+    "tags": [
+      "운동",
+      "영상 분석"
+    ]
+  },
+  {
+    "id": "legacy-service-lattice",
+    "title": "Lattice",
+    "kind": "service",
+    "canonicalUrl": "https://lattice-log.vercel.app",
+    "description": "AI 프롬프트·스킬·MCP·트렌딩 레포와 한국어 요약을 큐레이션하는 디렉터리.",
+    "tags": [
+      "AI 큐레이션",
+      "MCP"
+    ]
+  },
+  {
+    "id": "legacy-service-lawtrack",
+    "title": "LAWtrack",
+    "kind": "service",
+    "canonicalUrl": "https://lawtrack.kr?src=probe_dev",
+    "description": "세법·노무·부동산·기업 법령의 개정을 조문 단위로 추적하고 시행일과 신구조문을 보여주는 서비스.",
+    "tags": [
+      "법령",
+      "알림"
+    ]
+  },
+  {
+    "id": "legacy-service-mayu",
+    "title": "마유 (Mayu)",
+    "kind": "service",
+    "canonicalUrl": "https://mayu.ai.kr/ko",
+    "description": "비만치료제 다이어트의 시작 전부터 중단 후까지 기록·주간 리포트·의료진 검수 코치와 함께하는 웰니스 앱.",
+    "tags": [
+      "웰니스",
+      "기록"
+    ]
+  },
+  {
+    "id": "legacy-service-moments",
+    "title": "Moments",
+    "kind": "service",
+    "canonicalUrl": "https://photo-moments.app",
+    "description": "팀·여행 사진을 모으고 사람을 기준으로 사진을 찾아보는 사진 아카이브.",
+    "tags": [
+      "사진",
+      "아카이브"
+    ]
+  },
+  {
+    "id": "legacy-service-teamsquad",
+    "title": "팀스쿼드",
+    "kind": "service",
+    "canonicalUrl": "https://teamsquad-1cfa4.web.app/intro?utm_source=threads&utm_medium=social&utm_content=link_in_bio",
+    "description": "축구 팀 운영을 돕는 앱. 지난주 우리 팀 MOM 같은 경기·팀 기록을 확인하는 서비스로 소개됨.",
+    "tags": [
+      "축구",
+      "팀 운영"
+    ]
+  },
+  {
+    "id": "legacy-service-togethery",
+    "title": "Togethery",
+    "kind": "service",
+    "canonicalUrl": "https://togethery.lifebitlab.com",
+    "description": "가족이 장보기와 할 일을 실시간으로 공유하고 체크·댓글을 남기는 앱.",
+    "tags": [
+      "가족",
+      "공유 리스트"
+    ]
+  },
+  {
+    "id": "legacy-service-whisper-live",
+    "title": "위스퍼 라이브",
+    "kind": "service",
+    "canonicalUrl": "https://apps.apple.com/kr/app/%EC%9C%84%EC%8A%A4%ED%8D%BC-%EB%9D%BC%EC%9D%B4%EB%B8%8C-ai-%EB%B3%B4%EC%9D%B4%EC%8A%A4-%EC%BB%B4%ED%8C%A8%EB%8B%88%EC%96%B8/id6789161883",
+    "description": "AI 보이스 컴패니언 앱. 채팅방에서는 AI 여자친구·음성 대화 서비스로 소개됨.",
+    "tags": [
+      "iOS",
+      "AI 음성"
+    ]
+  },
+  {
+    "id": "legacy-service-wooripalja",
+    "title": "우리팔자",
+    "kind": "service",
+    "canonicalUrl": "https://wooripalja.com",
+    "description": "사주·궁합·대운·연도별 운세를 명리 계산에 근거해 제공하는 온라인 명리 서비스.",
+    "tags": [
+      "사주",
+      "콘텐츠"
+    ]
+  },
+  {
+    "id": "legacy-service-imjang",
+    "title": "내집탐구",
+    "kind": "service",
+    "canonicalUrl": "https://imjang.aidestudio.app",
+    "description": "보유 현금으로 가능한 전세·매수 주택을 찾고, 국토교통부 실거래가와 비교 근거를 보여주는 부동산 앱.",
+    "secondaryUrl": "https://apps.apple.com/kr/app/id6792628237",
+    "secondaryLabel": "App Store",
+    "tags": [
+      "부동산",
+      "전세·매수",
+      "iOS·Android"
+    ]
+  },
+  {
+    "id": "legacy-service-artmuse",
+    "title": "ARTMUSE",
+    "kind": "service",
+    "canonicalUrl": "https://artmuselabs.com?utm_source=vibecodingclub",
+    "description": "18년간 게임 아트디렉터로 쌓은 도메인을 바탕으로 레퍼런스 탐색·컨셉 구체화·그림 피드백·크로키 연습을 돕는 서비스.",
+    "tags": [
+      "게임 아트",
+      "레퍼런스",
+      "그림 피드백"
+    ]
+  },
+  {
+    "id": "legacy-github-disease-atlas",
+    "title": "disease-atlas",
+    "kind": "github",
+    "canonicalUrl": "https://github.com/Haneul-two/disease-atlas",
+    "description": "인체 부위별 질병 관계 그래프와 용어·증상·치료 검색을 구현한 Next.js·Prisma 프로젝트.",
+    "secondaryUrl": "https://disease-atlas-eta.vercel.app",
+    "secondaryLabel": "서비스 링크",
+    "tags": [
+      "의학",
+      "질병 그래프",
+      "Next.js"
+    ]
+  },
+  {
+    "id": "legacy-service-chobomomndad",
+    "title": "초보맘&대디",
+    "kind": "service",
+    "canonicalUrl": "https://chobomomndad.com",
+    "description": "서울·경기·인천의 임신·출산·육아 혜택을 시군구 기준으로 구분해 확인하고 공식 출처를 찾는 서비스.",
+    "tags": [
+      "임신·출산",
+      "육아",
+      "공공 혜택"
+    ]
+  },
+  {
+    "id": "legacy-service-disease-atlas",
+    "title": "질병 아틀라스",
+    "kind": "service",
+    "canonicalUrl": "https://disease-atlas-eta.vercel.app",
+    "description": "인체 부위별 주요 질병을 해부학적으로 배치된 관계 그래프로 보고 용어·증상·치료법을 열람하는 교육용 사이트.",
+    "secondaryUrl": "https://github.com/Haneul-two/disease-atlas",
+    "secondaryLabel": "GitHub",
+    "tags": [
+      "의학",
+      "질병 그래프",
+      "시각화"
+    ]
+  },
+  {
+    "id": "legacy-service-naru",
+    "title": "Naru",
+    "kind": "service",
+    "canonicalUrl": "https://naru-app.store",
+    "description": "시차와 하루 리듬이 다른 두 사람이 서로의 현재 시간·날씨·일정과 함께 가능한 시간을 확인하는 커플 앱.",
+    "tags": [
+      "커플",
+      "시간대",
+      "iOS"
+    ]
+  },
+  {
+    "id": "legacy-service-oneulharu",
+    "title": "오늘하루",
+    "kind": "service",
+    "canonicalUrl": "https://oneulharu.kr/ko",
+    "description": "서울 공원·박물관·도서관과 아이와 함께할 경험을 찾고 장소별 공식 이용안내·주차·예약 정보를 확인하는 서비스.",
+    "tags": [
+      "육아",
+      "서울",
+      "공공데이터"
+    ]
+  },
+  {
+    "id": "4a7dd084-833a-4cf3-b5eb-a4cc1ff61eea",
+    "title": "volcano",
+    "kind": "github",
+    "canonicalUrl": "https://taewooyo.github.io/volcano",
+    "description": "대표적으로 인베스팅뷰에서 제공하는 히트맵 차트를 커스텀해서 여러 도메인에서 사용할 수 있는 라이브러리입니다. \n모바일(안드로이드, iOS), 윈도우, macOS, react framework에서 사용이 가능해요.",
+    "tags": [
+      "라이브러리",
+      "커스텀 차트",
+      "메코 차트",
+      "금융",
+      "주식",
+      "변화율",
+      "랭킹"
+    ]
+  }
+]
